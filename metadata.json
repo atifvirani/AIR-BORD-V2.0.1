@@ -1,0 +1,6 @@
+{
+  "name": "AIR BOARD v2.0.1",
+  "description": "A next-generation AI-powered virtual air writing board controlled entirely using hand gestures through webcam tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
